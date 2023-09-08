@@ -25,22 +25,6 @@ greet(name3, ashu);
 // not defind function name so outomaticlly catch msg you pass in function
 greet(name4);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Return value
 // let returnVal = sum(1, 2, 3);
 // console.log(returnVal);
